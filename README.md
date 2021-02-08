@@ -9,4 +9,5 @@ O Excel com a previsão dos diferentes modelos para o cluster A do mês de setem
 Abaixo segue um gráfico comparando as previsões dos diferentes modelos treinados para o mês de setembro de 2020.
 
 **Clique no gráfico para vê-lo ampliado!**
+
 <img src='A-comparacao.png'>
