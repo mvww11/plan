@@ -11,3 +11,13 @@ Abaixo segue um gráfico comparando as previsões dos diferentes modelos treinad
 **Clique no gráfico para vê-lo ampliado!**
 
 <img src='A-comparacao.png'>
+<img src='B-comparacao.png'>
+<img src='C-comparacao.png'>
+<img src='D-comparacao.png'><img src='A-comparacao.png'>
+<img src='E-comparacao.png'>
+<img src='F-comparacao.png'>
+<img src='J-comparacao.png'>
+<img src='K-comparacao.png'>
+<img src='L-comparacao.png'>
+<img src='M-comparacao.png'>
+
