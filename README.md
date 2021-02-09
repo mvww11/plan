@@ -15,7 +15,7 @@ Ao todo foram treinados 50 modelos: 5 para cada cluster. Nos gráficos abaixo es
 <img src='graficos/A-comparacao.png'>
 <img src='graficos/B-comparacao.png'>
 <img src='graficos/C-comparacao.png'>
-<img src='graficos/D-comparacao.png'><img src='A-comparacao.png'>
+<img src='graficos/D-comparacao.png'>
 <img src='graficos/E-comparacao.png'>
 <img src='graficos/F-comparacao.png'>
 <img src='graficos/J-comparacao.png'>
