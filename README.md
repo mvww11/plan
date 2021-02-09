@@ -5,7 +5,7 @@ Para melhor entendimento da sequência de passos, leia a modelagem na seguinte o
 - [Machine Learning ](<Machine Learning.ipynb>)
 
 ## Excel com forecasts
-O Excel com o forecast de todos os modelos para todos os clusters do mês de setembro de 2020 está no arquivo [forecast-set-2020.xlsx](forecast-set-2020.xlsx).
+O Excel com o forecast para setembro de 2020 de todos os modelos para todos os clusters está no arquivo [forecast-set-2020.xlsx](forecast-set-2020.xlsx).
 
 ## Gráficos de forecast
 Ao todo foram treinados 50 modelos: 5 para cada cluster. Nos gráficos abaixo estão comparados os forecasts feitos por cada modelo para cada cluster.
