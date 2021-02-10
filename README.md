@@ -8,7 +8,7 @@ Para melhor entendimento da sequência de passos, leia a modelagem na seguinte o
 O Excel com o forecast para setembro de 2020 de todos os modelos para todos os clusters está no arquivo [forecast-set-2020.xlsx](forecast-set-2020.xlsx).
 
 ## Acurácia
-A acurácia de cada modelo é mostrada na tabela abaixo e foi estimada pelo erro absoluto médio calculado no conjunto de teste (observações não vistas pelo modelo em treinamento).
+A acurácia de cada modelo é mostrada na tabela abaixo e foi estimada pelo erro absoluto médio calculado no conjunto de teste (observações não vistas pelo modelo em treinamento). A mediana da série de cada cluster é informada para auxiliar interpretação.
 |Cluster                       | reg-model2|reg-model3 |ts-model1 |ts-model2 |ml | mediana|
 |:------------------------------|:---------|:-----------|:-----------|:-----------|:-----------|:-----------|
 |A|97|	77|	129|	105|	202| 541|
