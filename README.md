@@ -23,7 +23,7 @@ Ao todo foram treinados 50 modelos: 5 para cada cluster. Nos gráficos abaixo es
 <img src='graficos/L-comparacao.png'>
 <img src='graficos/M-comparacao.png'>
 
-|Cluster                       |reg-model2     |reg-model3 |
+|Cluster                       | reg-model2|reg-model3 |reg-ts-model1 |ts-model2 |ml |
 |:------------------------------|:---------|:-----------|
 |A                    |double    | Value indicating if the booking was canceled (1) or not (0) |
 |B                      |double    | Number of days that elapsed between the entering date of the booking into the PMS and the arrival date |
