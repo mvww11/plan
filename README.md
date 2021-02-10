@@ -9,18 +9,18 @@ O Excel com o forecast para setembro de 2020 de todos os modelos para todos os c
 
 ## Acurácia
 A acurácia de cada modelo é mostrada na tabela abaixo e foi estimada pelo erro absoluto médio calculado no conjunto de teste (observações não vistas pelo modelo em treinamento).
-|Cluster                       | reg-model2|reg-model3 |ts-model1 |ts-model2 |ml |
-|:------------------------------|:---------|:-----------|:-----------|:-----------|:-----------|
-|A|97|	77|	129|	105|	202|
-|B|144|	107|	161|	113|	198|
-|C|98	|116	|121	|110	|134|
-|D|122	|86	|138|	78	|235|
-E|241|	161|	229|	185|	593|
-|F|241	|172	|824	|925	|1267|
-|J|42	|26|	34	|28	|31|
-|K|63|	42	|49|	53|	63|
-|L|22|	28	|21	|27	|33|
-|M|75|	44|	96|	65|	155|
+|Cluster                       | reg-model2|reg-model3 |ts-model1 |ts-model2 |ml | mediana|
+|:------------------------------|:---------|:-----------|:-----------|:-----------|:-----------|:-----------|
+|A|97|	77|	129|	105|	202| 541|
+|B|144|	107|	161|	113|	198|713|
+|C|98	|116	|121	|110	|134|255|
+|D|122	|86	|138|	78	|235|533|
+|E|241|	161|	229|	185|	593|968|
+|F|241	|172	|824	|925	|1267|3533|
+|J|42	|26|	34	|28	|31|184|
+|K|63|	42	|49|	53|	63|396|
+|L|22|	28	|21	|27	|33|133|
+|M|75|	44|	96|	65|	155|567|
 
 
 
